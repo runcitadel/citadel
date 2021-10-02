@@ -1,4 +1,7 @@
-# 🏰 Citadel Bitcoin node
+<p align="center">
+  <img height="300" src="https://avatars.githubusercontent.com/u/86734767">
+  <h1 align="center">🏰 Citadel Bitcoin node</h1>
+</p>
 
 Citadel is modern, mostly open source and soon to be fully FLOSS Bitcoin Node implementation based on [Umbrel](https://github.com/getumbrel/umbrel).
 Our node provides the latest apps, together with our own, up-to-date user interface and backend.
