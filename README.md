@@ -22,7 +22,8 @@ Our node provides the latest apps, together with our own, up-to-date user interf
 | [compose-nonfree](https://github.com/runcitadel/compose-nonfree) | Current, temporary backend fork |
 | [dashboard](https://github.com/runcitadel/dashboard) | Current frontend |
 | [middleware](https://github.com/runcitadel/middleware) | Communication with bitcoind & lnd |
-| [manager](https://github.com/runcitadel/manager) | Manages Containers, Auth & misc. |
+| [manager](https://github.com/runcitadel/manager) | Manages containers, Auth & misc. |
+| [sdk](https://github.com/runcitadel/sdk) | Library to connect applications to Citadel |
 
 *- Other, relevant repos are added when applicable.*
 
