@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="256"
+   height="256"
+   viewBox="0 0 256 256"
+   version="1.1"
+   id="svg2661"
+   sodipodi:docname="lnme-citadel.svg"
+   inkscape:version="1.2-dev (0ee9764, 2021-10-22)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview2663"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:blackoutopacity="0.0"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.5159453"
+     inkscape:cx="217.35612"
+     inkscape:cy="131.93088"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2661" />
+  <title
+     id="title2543">lnme</title>
+  <defs
+     id="defs2602">
+    <linearGradient
+       x1="0.5"
+       y1="0"
+       x2="0.5"
+       y2="1"
+       id="linearGradient-1">
+      <stop
+         stop-color="#FFA500"
+         offset="0%"
+         id="stop2545" />
+      <stop
+         stop-color="#FFE300"
+         offset="100%"
+         id="stop2547" />
+    </linearGradient>
+    <linearGradient
+       x1="0.5"
+       y1="0"
+       x2="0.5"
+       y2="1"
+       id="linearGradient-2">
+      <stop
+         stop-color="#FFA500"
+         offset="0%"
+         id="stop2550" />
+      <stop
+         stop-color="#FFE300"
+         offset="100%"
+         id="stop2552" />
+    </linearGradient>
+    <linearGradient
+       x1="0"
+       y1="0.64579058"
+       x2="1"
+       y2="0.64579058"
+       id="linearGradient-3">
+      <stop
+         stop-color="#3D3393"
+         offset="0%"
+         id="stop2555" />
+      <stop
+         stop-color="#2B76B9"
+         offset="24.6013508%"
+         id="stop2557" />
+      <stop
+         stop-color="#2CACD1"
+         offset="67.981896%"
+         id="stop2559" />
+      <stop
+         stop-color="#35EB93"
+         offset="100%"
+         id="stop2561" />
+    </linearGradient>
+    <linearGradient
+       x1="1088.7111"
+       y1="406.30396"
+       x2="1088.7111"
+       y2="525.52728"
+       id="linearGradient-4"
+       gradientTransform="scale(1.2279319,0.81437743)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#FFA500"
+         offset="0%"
+         id="stop2564" />
+      <stop
+         stop-color="#FFE300"
+         offset="100%"
+         id="stop2566" />
+    </linearGradient>
+    <linearGradient
+       x1="1146.776"
+       y1="499.62473"
+       x2="1146.776"
+       y2="620.39771"
+       id="linearGradient-5"
+       gradientTransform="scale(1.1485626,0.87065344)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#FFE300"
+         offset="0%"
+         id="stop2569" />
+      <stop
+         stop-color="#FFA500"
+         offset="100%"
+         id="stop2571" />
+    </linearGradient>
+    <linearGradient
+       x1="803.40161"
+       y1="304.15427"
+       x2="803.40161"
+       y2="487.9046"
+       id="linearGradient-6"
+       gradientTransform="scale(0.90823563,1.1010359)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#FFA500"
+         offset="0%"
+         id="stop2574" />
+      <stop
+         stop-color="#FFE300"
+         offset="100%"
+         id="stop2576" />
+    </linearGradient>
+    <linearGradient
+       x1="1173.3036"
+       y1="115.30026"
+       x2="1307.0203"
+       y2="115.30026"
+       id="linearGradient-7"
+       gradientTransform="scale(1.3227125,0.75602217)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#3D3393"
+         offset="0%"
+         id="stop2579" />
+      <stop
+         stop-color="#2B76B9"
+         offset="24.6013508%"
+         id="stop2581" />
+      <stop
+         stop-color="#2CACD1"
+         offset="67.981896%"
+         id="stop2583" />
+      <stop
+         stop-color="#35EB93"
+         offset="100%"
+         id="stop2585" />
+    </linearGradient>
+    <linearGradient
+       x1="1212.3519"
+       y1="247.72836"
+       x2="1349.4352"
+       y2="247.72836"
+       id="linearGradient-8"
+       gradientTransform="scale(1.2635023,0.79145089)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#3D3393"
+         offset="0%"
+         id="stop2588" />
+      <stop
+         stop-color="#2B76B9"
+         offset="24.6013508%"
+         id="stop2590" />
+      <stop
+         stop-color="#2CACD1"
+         offset="67.981896%"
+         id="stop2592" />
+      <stop
+         stop-color="#35EB93"
+         offset="100%"
+         id="stop2594" />
+    </linearGradient>
+    <linearGradient
+       x1="0.5"
+       y1="0"
+       x2="0.5"
+       y2="1"
+       id="linearGradient-9">
+      <stop
+         stop-color="#FFA500"
+         offset="0%"
+         id="stop2597" />
+      <stop
+         stop-color="#FFE300"
+         offset="100%"
+         id="stop2599" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient-3"
+       id="linearGradient4790"
+       x1="1200"
+       y1="473.32239"
+       x2="1456"
+       y2="473.32239"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-1200,-308)" />
+  </defs>
+  <rect
+     id="Rectangle-Copy-12"
+     fill="url(#linearGradient-3)"
+     x="0"
+     y="0"
+     width="256"
+     height="256"
+     rx="0"
+     style="fill:url(#linearGradient4790);fill-rule:evenodd;stroke:none;stroke-width:1" />
+  <polygon
+     id="Path-Copy-19"
+     fill="url(#linearGradient-4)"
+     points="1392.4476,427.97757 1410.062,409.94919 1324.6112,409.94919 1374.6353,331.88477 1314,330.88477 1263.6638,427.97757 "
+     style="fill:url(#linearGradient-4);fill-rule:evenodd;stroke:none;stroke-width:1"
+     transform="translate(-1200,-308)" />
+  <polygon
+     id="Path-Copy-18"
+     fill="url(#linearGradient-5)"
+     points="1386.5017,435 1259.8377,435 1247.7865,456.7035 1332.1849,456.7035 1291.1757,540.15139 "
+     style="fill:url(#linearGradient-5);fill-rule:evenodd;stroke:none;stroke-width:1"
+     transform="translate(-1200,-308)" />
+  <metadata
+     id="metadata5401">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>lnme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
