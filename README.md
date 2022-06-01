@@ -27,8 +27,27 @@ Our node provides the latest apps, together with our own, up-to-date user interf
 
 *- Other, relevant repos are added when applicable.*
 
----
-### Roadmap
+## 🛠️ Installation
+
+There are many ways to install Citadel. Depending on your hardware and operating system you can follow one of the below step-by-step guides to get started.
+
+### Raspberry Pi 4
+
+[runcitadel.space/setup](https://runcitadel.space/setup)
+
+### Migrating from Umbrel
+
+[runcitadel.space/migrate](https://runcitadel.space/migrate)
+
+### Debian or Ubuntu on x86 hardware
+
+[runcitadel.space/x86](https://runcitadel.space/x86)
+
+### Docker + Sysbox (experimental)
+
+[github.com/runcitadel/citadel-dev](https://github.com/runcitadel/citadel-dev)
+
+## 🧭 Roadmap
 
 Citadel is fully transparent and built by the community. That's why we're sharing our roadmap publicly for everyone.
 
