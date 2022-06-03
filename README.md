@@ -25,21 +25,13 @@ We aim to provide secure nodes and servers for everyone where _you_ are in contr
 
 There are many ways to install Citadel. Depending on your hardware and operating system you can follow one of the below step-by-step guides to get started.
 
-### Raspberry Pi 4
+#### Raspberry Pi 4: [runcitadel.space/setup](https://runcitadel.space/setup)
 
-[runcitadel.space/setup](https://runcitadel.space/setup)
+#### Debian / Ubuntu: [runcitadel.space/x86](https://runcitadel.space/x86)
 
-### Migrating from Umbrel
+#### Migrate from Umbrel: [runcitadel.space/migrate](https://runcitadel.space/migrate)
 
-[runcitadel.space/migrate](https://runcitadel.space/migrate)
-
-### Debian or Ubuntu on x86 hardware
-
-[runcitadel.space/x86](https://runcitadel.space/x86)
-
-### Docker + Sysbox (experimental)
-
-[github.com/runcitadel/citadel-dev](https://github.com/runcitadel/citadel-dev)
+#### Docker + Sysbox (experimental): [github.com/runcitadel/citadel-dev](https://github.com/runcitadel/citadel-dev)
 
 ## Citadel vs. Umbrel
 
