@@ -3,7 +3,7 @@
   <h1 align="center">Citadel</h1>
 </p>
 
-Citadel allows you to run your own Bitcoin Lightning node and personal server. Citadel is proudly free and open-source software (FOSS). Anyone is free to use, copy, study and change the software in any way as well as distribute it for commercial purposes.
+Citadel allows you to run your own Bitcoin Lightning node and personal server. It is proudly **free and open-source** software. Anyone is free to use, copy, study and change the software in any way as well as distribute it for commercial purposes. We aim to provide secure nodes and servers for everyone where _you_ are in control of your data, not a big company. We make contributions to various open source projects used on Citadel to make sure we're giving back to the community we build on.
 
 ## Overview
 
@@ -39,8 +39,7 @@ There are many ways to install Citadel. Depending on your hardware and operating
 
 ## Citadel vs. Umbrel
 
-Citadel is a mostly open source and soon to be fully FLOSS Lightning Node implementation based on [Umbrel](https://github.com/getumbrel/umbrel).
-It offers many improvements over Umbrel:
+Citadel is a mostly open source and soon to be fully FLOSS Lightning Node implementation based on [Umbrel](https://github.com/getumbrel/umbrel). Most of the codebase has been rewritten and moved away from Umbrel. Citadel offers many improvements over Umbrel:
 
 - faster operating system optimized for Raspberry Pi
 - independent and therefore faster app updates
@@ -53,7 +52,7 @@ Citadel is fully transparent and built by the community. To see milestones and f
 
 ### Repositories
 
-| Name                                                     | About                                                     |
+| Name                                                     | Description                                               |
 | -------------------------------------------------------- | --------------------------------------------------------- |
 | [citadel](https://github.com/runcitadel/citadel/)        | This overview, issues, discussions and project management |
 | [core](https://github.com/runcitadel/core)               | The core of Citadel                                       |
