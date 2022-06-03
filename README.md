@@ -7,13 +7,15 @@ Citadel allows you to run your own Bitcoin Lightning node and personal server. C
 
 ## Overview
 
-### 💡 Have an idea for a feature? [Discuss a topic](https://github.com/runcitadel/citadel/discussions/new)
+#### 💡 Have an idea for a feature? [Discuss a topic](https://github.com/runcitadel/citadel/discussions/new)
 
-### ⁉ Something isn't working? [Create an issue](https://github.com/runcitadel/citadel/issues/new)
+#### ⁉ Something isn't working? [Create an issue](https://github.com/runcitadel/citadel/issues/new)
 
-### 💬 Need help getting started? [Telegram](https://t.me/runcitadel) / [Discord](https://discord.gg/6U3kM2cjdB)
+#### 💬 Need help getting started? [Telegram](https://t.me/runcitadel) / [Discord](https://discord.gg/6U3kM2cjdB)
 
-### 🗞️ Stay up to date [Twitter](https://twitter.com/runcitadel)
+#### 🗞️ Stay up to date: [Twitter](https://twitter.com/runcitadel) / [Blog](https://blog.runcitadel.space)
+
+#### 📚 Find guides & best practices: [Wiki](https://wiki.runcitadel.space)
 
 ## Installation
 
