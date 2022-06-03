@@ -1,10 +1,9 @@
 <p align="center">
   <img height="300" src="https://avatars.githubusercontent.com/u/86734767">
-  <h1 align="center">🏰 Citadel Bitcoin node</h1>
+  <h1 align="center">Citadel</h1>
 </p>
 
-Citadel is modern, mostly open source and soon to be fully FLOSS Bitcoin Node implementation based on [Umbrel](https://github.com/getumbrel/umbrel).
-Our node provides the latest apps, together with our own, up-to-date user interface and backend.
+Citadel allows you to run your own Bitcoin Lightning node and personal server. Citadel is proudly free and open-source software (FOSS). Anyone is free to use, copy, study and change the software in any way as well as distribute it for commercial purposes.
 
 *See also: [Discord Server](https://discord.gg/6U3kM2cjdB) & [Twitter](https://twitter.com/runcitadel)*
 
