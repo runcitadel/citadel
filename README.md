@@ -46,6 +46,16 @@ There are many ways to install Citadel. Depending on your hardware and operating
 
 [github.com/runcitadel/citadel-dev](https://github.com/runcitadel/citadel-dev)
 
-## 🧭 Roadmap
+## Citadel vs. Umbrel
+
+Citadel is a mostly open source and soon to be fully FLOSS Lightning Node implementation based on [Umbrel](https://github.com/getumbrel/umbrel).
+It offers many improvements over Umbrel:
+
+- faster operating system optimized for Raspberry Pi
+- independent and therefore faster app updates
+- our own, up-to-date user interface with built-in dark mode
+- listening mode by default
+
+## Roadmap
 
 Citadel is fully transparent and built by the community. To see milestones and follow current development view the [project board](https://github.com/orgs/runcitadel/projects/3).
