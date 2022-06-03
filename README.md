@@ -67,8 +67,6 @@ We welcome and appreciate new contributions! The best way to get started is to r
 
 Citadel is licensed under the GNU Affero General Public License v3.0 or later.
 
-[![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL%203.0-blue.svg)](https://opensource.org/licenses/AGPL-3.0)
-
 It includes code from `umbrel-os` and `pi-gen`, which are
 
 ```
