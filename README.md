@@ -58,3 +58,22 @@ Citadel is fully transparent and built by the community. To see milestones and f
 | [sdk](https://github.com/runcitadel/sdk)                 | Library to connect applications to Citadel                |
 | [apps](https://github.com/runcitadel/apps)               | Free, open source apps available on Citadel               |
 | [citadel-dev](https://github.com/runcitadel/citadel-dev) | CLI tool to spin up Citadels in a Docker container        |
+
+### License
+
+Citadel is licensed under the GNU Affero General Public License v3.0 or later.
+
+[![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL%203.0-blue.svg)](https://opensource.org/licenses/AGPL-3.0)
+
+It includes code from `umbrel-os` and `pi-gen`, which are
+
+```
+Copyright (c) 2015 Raspberry Pi (Trading) Ltd.
+Copyright (c) 2020 Umbrel. https://getumbrel.com/
+```
+
+---
+
+_"Being open source means anyone can independently review the code. If it was closed source, nobody could verify the security. I think it's essential for a program of this nature to be open source." — Satoshi Nakamoto_
+
+[![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL%203.0-blue.svg)](https://opensource.org/licenses/AGPL-3.0)
