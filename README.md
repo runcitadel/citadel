@@ -49,14 +49,4 @@ There are many ways to install Citadel. Depending on your hardware and operating
 
 ## 🧭 Roadmap
 
-Citadel is fully transparent and built by the community. That's why we're sharing our roadmap publicly for everyone.
-
-The following are planned stable releases, beta releases have already been done.
-
-### 0.1.0: First release
-
-- Dark mode
-- Easy migration tool Umbrel -> Citadel
-- Up-to-date apps
-- Fully open backend using [koa](https://github.com/koajs/koa) and licensed under the AGPL v3
-- Up-to-date OS based on Debian Bullseye
+Citadel is fully transparent and built by the community. To see milestones and follow current development view the [project board](https://github.com/orgs/runcitadel/projects/3).
