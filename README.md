@@ -46,7 +46,7 @@ Citadel is a mostly open source and soon to be fully FLOSS Lightning Node implem
 
 Citadel is fully transparent and built by the community. To see milestones and follow current development view the [project board](https://github.com/orgs/runcitadel/projects/3).
 
-### Repositories
+## Repositories
 
 | Name                                                     | Description                                               |
 | -------------------------------------------------------- | --------------------------------------------------------- |
@@ -59,7 +59,11 @@ Citadel is fully transparent and built by the community. To see milestones and f
 | [apps](https://github.com/runcitadel/apps)               | Free, open source apps available on Citadel               |
 | [citadel-dev](https://github.com/runcitadel/citadel-dev) | CLI tool to spin up Citadels in a Docker container        |
 
-### License
+## Contributing
+
+We welcome and appreciate new contributions! The best way to get started is to reach out to us on [Telegram](https://t.me/runcitadel).
+
+## License
 
 Citadel is licensed under the GNU Affero General Public License v3.0 or later.
 
