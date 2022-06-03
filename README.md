@@ -53,11 +53,13 @@ Citadel is fully transparent and built by the community. To see milestones and f
 
 ### Repositories
 
-| Name                                                   | About                                                     |
-| ------------------------------------------------------ | --------------------------------------------------------- |
-| [citadel](https://github.com/runcitadel/citadel/)      | This overview, issues, discussions and project management |
-| [core](https://github.com/runcitadel/core)             | The core of Citadel                                       |
-| [dashboard](https://github.com/runcitadel/dashboard)   | Current frontend                                          |
-| [middleware](https://github.com/runcitadel/middleware) | Communication with bitcoind & lnd                         |
-| [manager](https://github.com/runcitadel/manager)       | Manages containers, Auth & misc.                          |
-| [sdk](https://github.com/runcitadel/sdk)               | Library to connect applications to Citadel                |
+| Name                                                     | About                                                     |
+| -------------------------------------------------------- | --------------------------------------------------------- |
+| [citadel](https://github.com/runcitadel/citadel/)        | This overview, issues, discussions and project management |
+| [core](https://github.com/runcitadel/core)               | The core of Citadel                                       |
+| [dashboard](https://github.com/runcitadel/dashboard)     | Current frontend                                          |
+| [middleware](https://github.com/runcitadel/middleware)   | Communication with bitcoin & lightning implementations    |
+| [manager](https://github.com/runcitadel/manager)         | Manages containers, authentiction & misc.                 |
+| [sdk](https://github.com/runcitadel/sdk)                 | Library to connect applications to Citadel                |
+| [apps](https://github.com/runcitadel/apps)               | Free, open source apps available on Citadel               |
+| [citadel-dev](https://github.com/runcitadel/citadel-dev) | CLI tool to spin up Citadels in a Docker container        |
