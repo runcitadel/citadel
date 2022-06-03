@@ -61,5 +61,3 @@ Citadel is fully transparent and built by the community. To see milestones and f
 | [middleware](https://github.com/runcitadel/middleware) | Communication with bitcoind & lnd                         |
 | [manager](https://github.com/runcitadel/manager)       | Manages containers, Auth & misc.                          |
 | [sdk](https://github.com/runcitadel/sdk)               | Library to connect applications to Citadel                |
-
-_- Other, relevant repos are added when applicable._
