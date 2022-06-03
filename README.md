@@ -15,19 +15,6 @@ Citadel allows you to run your own Bitcoin Lightning node and personal server. C
 
 ### 🗞️ Stay up to date [Twitter](https://twitter.com/runcitadel)
 
-### Repositories:
-
-| Name                                                             | About                                                     |
-| ---------------------------------------------------------------- | --------------------------------------------------------- |
-| [citadel](https://github.com/runcitadel/citadel/)                | This overview, issues, discussions and project management |
-| [compose-nonfree](https://github.com/runcitadel/compose-nonfree) | Current, temporary backend fork                           |
-| [dashboard](https://github.com/runcitadel/dashboard)             | Current frontend                                          |
-| [middleware](https://github.com/runcitadel/middleware)           | Communication with bitcoind & lnd                         |
-| [manager](https://github.com/runcitadel/manager)                 | Manages containers, Auth & misc.                          |
-| [sdk](https://github.com/runcitadel/sdk)                         | Library to connect applications to Citadel                |
-
-_- Other, relevant repos are added when applicable._
-
 ## Installation
 
 There are many ways to install Citadel. Depending on your hardware and operating system you can follow one of the below step-by-step guides to get started.
@@ -61,3 +48,16 @@ It offers many improvements over Umbrel:
 ## Roadmap
 
 Citadel is fully transparent and built by the community. To see milestones and follow current development view the [project board](https://github.com/orgs/runcitadel/projects/3).
+
+### Repositories
+
+| Name                                                   | About                                                     |
+| ------------------------------------------------------ | --------------------------------------------------------- |
+| [citadel](https://github.com/runcitadel/citadel/)      | This overview, issues, discussions and project management |
+| [core](https://github.com/runcitadel/core)             | The core of Citadel                                       |
+| [dashboard](https://github.com/runcitadel/dashboard)   | Current frontend                                          |
+| [middleware](https://github.com/runcitadel/middleware) | Communication with bitcoind & lnd                         |
+| [manager](https://github.com/runcitadel/manager)       | Manages containers, Auth & misc.                          |
+| [sdk](https://github.com/runcitadel/sdk)               | Library to connect applications to Citadel                |
+
+_- Other, relevant repos are added when applicable._
