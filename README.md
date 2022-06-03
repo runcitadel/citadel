@@ -3,7 +3,11 @@
   <h1 align="center">Citadel</h1>
 </p>
 
-Citadel allows you to run your own Bitcoin Lightning node and personal server. It is proudly **free and open-source** software. Anyone is free to use, copy, study and change the software in any way as well as distribute it for commercial purposes. We aim to provide secure nodes and servers for everyone where _you_ are in control of your data, not a big company. We make contributions to various open source projects used on Citadel to make sure we're giving back to the community we build on.
+Citadel allows you to run your own Bitcoin Lightning node and personal server. It is proudly **free and open-source** software. Anyone is free to use, copy, study and change the software in any way as well as distribute it for commercial purposes.
+
+### Our mission
+
+We aim to provide secure nodes and servers for everyone where _you_ are in control of your data, not a big company. We make contributions to various open source projects used on Citadel to make sure we're giving back to the community we build on.
 
 ## Overview
 
