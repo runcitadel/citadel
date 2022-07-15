@@ -40,7 +40,7 @@ Citadel is a mostly open source and soon to be fully FLOSS Lightning Node implem
 - faster operating system optimized for Raspberry Pi
 - independent and therefore faster app updates
 - our own, up-to-date user interface with built-in dark mode
-- listening mode by default
+- listening node by default
 
 ## Roadmap
 
@@ -48,16 +48,16 @@ Citadel is fully transparent and built by the community. To see milestones and f
 
 ## Repositories
 
-| Name                                                     | Description                                               |
-| -------------------------------------------------------- | --------------------------------------------------------- |
-| [citadel](https://github.com/runcitadel/citadel/)        | This overview, issues, discussions and project management |
-| [core](https://github.com/runcitadel/core)               | The core of Citadel                                       |
-| [dashboard](https://github.com/runcitadel/dashboard)     | Current frontend                                          |
-| [middleware](https://github.com/runcitadel/middleware)   | Communication with bitcoin & lightning implementations    |
-| [manager](https://github.com/runcitadel/manager)         | Manages containers, authentiction & misc.                 |
-| [sdk](https://github.com/runcitadel/sdk)                 | Library to connect applications to Citadel                |
-| [apps](https://github.com/runcitadel/apps)               | Free, open source apps available on Citadel               |
-| [citadel-dev](https://github.com/runcitadel/citadel-dev) | CLI tool to spin up Citadels in a Docker container        |
+| Name                                                     | Description                                                    |
+| -------------------------------------------------------- | -------------------------------------------------------------- |
+| [citadel](https://github.com/runcitadel/citadel/)        | This overview, issues, discussions and project management      |
+| [core](https://github.com/runcitadel/core)               | The core of Citadel                                            |
+| [dashboard](https://github.com/runcitadel/dashboard)     | Current frontend                                               |
+| [middleware](https://github.com/runcitadel/middleware)   | Communication with bitcoin & lightning implementations         |
+| [manager](https://github.com/runcitadel/manager)         | Manages containers, authentiction & misc.                      |
+| [sdk](https://github.com/runcitadel/sdk)                 | Library to connect applications to Citadel                     |
+| [apps](https://github.com/runcitadel/apps)               | Free, open source apps available on Citadel                    |
+| [citadel-dev](https://github.com/runcitadel/citadel-dev) | CLI tool to spin up instances of Citadel in a Docker container |
 
 ## Contributing
 
@@ -73,6 +73,8 @@ It includes code from `umbrel-os` and `pi-gen`, which are
 Copyright (c) 2015 Raspberry Pi (Trading) Ltd.
 Copyright (c) 2020 Umbrel. https://getumbrel.com/
 ```
+
+Additionally, the current dashboard contains code from [Casa](https://github.com/Casa/V2-Casa-Node-UI) and [Umbrel](https://github.com/getumbrel/umbrel-dashboard).
 
 ---
 
