@@ -1,0 +1,50 @@
+name: Bug Report
+description: Create a report to help us improve
+title: "[Bug]: "
+labels: ["bug", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report!
+  - type: textarea
+    id: describe-bug
+    attributes:
+      label: Describe the bug
+      description: A clear and concise description of what the bug is. Include screenshots if relevant.
+      placeholder: The bug happened when I opened the app...
+      value: "A bug happened!"
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce-bug
+    attributes:
+      label: Reproduce
+      description: How do you trigger this bug? Please walk us through it step by step.
+      value: "Reproduce the bug step by step."
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Citadel version
+      description: What version of Citadel were you running when the bug occurred? You can find the version number on the Settings page.
+      placeholder: e.g. v0.1.0
+    validations:
+      required: true
+  - type: input
+    id: operating-system
+    attributes:
+      label: Operating system
+      description: What operating system (OS) is your Citadel running on?
+      placeholder: e.g. Citadel OS, Ubuntu, Debian or other
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Log output
+      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
+      render: shell
+    validations:
+      required: false
